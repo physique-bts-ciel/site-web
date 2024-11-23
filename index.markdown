@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Cours
+
+# Python
